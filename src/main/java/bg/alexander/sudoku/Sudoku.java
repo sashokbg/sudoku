@@ -1,4 +1,4 @@
-package sudoku;
+package bg.alexander.sudoku;
 
 import java.util.ArrayList;
 import java.util.Collections;

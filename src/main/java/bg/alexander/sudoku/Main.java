@@ -1,4 +1,4 @@
-package sudoku;
+package bg.alexander.sudoku;
 
 public class Main {
 

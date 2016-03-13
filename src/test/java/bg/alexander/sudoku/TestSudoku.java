@@ -1,10 +1,13 @@
-package sudoku;
+package bg.alexander.sudoku;
 
 import static org.junit.Assert.*;
 
 import java.util.List;
 
 import org.junit.Test;
+
+import bg.alexander.sudoku.Cell;
+import bg.alexander.sudoku.Sudoku;
 
 public class TestSudoku {
 
